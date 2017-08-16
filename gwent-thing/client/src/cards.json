@@ -2,7 +2,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Toggle a Unit's Resilience.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/618\/50037icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/618\/228\/293\/50037icon.png",
         "Row": "Special",
         "Loyalty": "",
         "Power": "0",
@@ -12,7 +12,7 @@
     {
         "Type": "Silver",
         "Abilities": "When you have 5 or more Elf Allies, play this Unit from your Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/648\/50115icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/648\/228\/293\/50115icon.png",
         "Row": "Ranged",
         "Loyalty": "",
         "Power": "6",
@@ -22,7 +22,7 @@
     {
         "Type": "Silver",
         "Abilities": "Play a Bronze or Silver Weather card from your Deck. Shuffle the others back into your Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/582\/50034icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/582\/228\/293\/50034icon.png",
         "Row": "Special",
         "Loyalty": "",
         "Power": "0",
@@ -32,7 +32,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy: You may Resurrect a Special card from your opponent's Graveyard. If you do, Weaken self by 4.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/560\/3006icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/560\/228\/293\/3006icon.png",
         "Row": "Siege, Melee, Ranged",
         "Loyalty": "",
         "Power": "10",
@@ -42,7 +42,7 @@
     {
         "Type": "Bronze",
         "Abilities": "After 2 turns, at the start of your turn, play an Alba Pikeman from your Deck on the row. Deploy: Gain 2 Armor.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/722\/50186icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/722\/228\/293\/50186icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "5",
@@ -52,7 +52,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Give this Unit a Shield.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/723\/50187icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/723\/228\/293\/50187icon.png",
         "Row": "Ranged",
         "Loyalty": "",
         "Power": "8",
@@ -62,7 +62,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: If neither player has passed, each player draws the top card from their Deck. Your opponent's card is Revealed.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/699\/50163icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/699\/228\/293\/50163icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "9",
@@ -72,7 +72,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Reveal a card.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/533\/572icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/533\/228\/293\/572icon.png",
         "Row": "Ranged",
         "Loyalty": "",
         "Power": "8",
@@ -82,7 +82,7 @@
     {
         "Type": "Silver",
         "Abilities": "Boost one of the Highest Bronze or Silver Units in your Deck by 2 and play it.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/669\/50198icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/669\/228\/293\/50198icon.png",
         "Row": "Special",
         "Loyalty": "",
         "Power": "0",
@@ -92,7 +92,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Damage a Unit by 7.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/591\/50035icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/591\/228\/293\/50035icon.png",
         "Row": "Special",
         "Loyalty": "",
         "Power": "0",
@@ -102,7 +102,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Boost an Ally by 10.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/726\/50190icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/726\/228\/293\/50190icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "2",
@@ -112,7 +112,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Every turn, at the start of your turn, Boost self by 1 if Fog is anywhere on the Board.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/505\/4101icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/505\/228\/293\/4101icon.png",
         "Row": "Ranged, Melee, Siege",
         "Loyalty": "",
         "Power": "7",
@@ -122,7 +122,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Play all Arachasae from your Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/603\/50084icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/603\/228\/293\/50084icon.png",
         "Row": "Ranged",
         "Loyalty": "",
         "Power": "3",
@@ -132,7 +132,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Whenever an Ally Consumes a card, Spawn an Arachas and Damage self by 1 (ignoring Armor). Deploy: Gain 2 Armor.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/602\/50078icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/602\/228\/293\/50078icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "6",
@@ -142,7 +142,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Damage 3 adjacent Units by 4.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/745\/50218icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/745\/228\/293\/50218icon.png",
         "Row": "Special",
         "Loyalty": "",
         "Power": "0",
@@ -152,7 +152,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Clear Weather from the row on your side.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/586\/50087icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/586\/228\/293\/50087icon.png",
         "Row": "Ranged, Melee, Siege",
         "Loyalty": "",
         "Power": "7",
@@ -162,7 +162,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Play a random Bronze Weather card from your Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/750\/50223icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/750\/228\/293\/50223icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "4",
@@ -172,7 +172,7 @@
     {
         "Type": "Gold",
         "Abilities": "Lock and Destroy an Enemy.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/729\/50209icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/729\/228\/293\/50209icon.png",
         "Row": "Special",
         "Loyalty": "",
         "Power": "0",
@@ -182,7 +182,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Shuffle up to 2 cards from either Graveyard into that player's Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/700\/50164icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/700\/228\/293\/50164icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "10",
@@ -192,7 +192,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Toggle 2 Units' Lock. If Enemies, Damage them by 1 as well.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/706\/50170icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/706\/228\/293\/50170icon.png",
         "Row": "Ranged",
         "Loyalty": "",
         "Power": "4",
@@ -202,7 +202,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy: If neither player has passed, both players draw the top 2 cards from their Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/467\/515icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/467\/228\/293\/515icon.png",
         "Row": "Siege, Melee, Ranged",
         "Loyalty": "",
         "Power": "8",
@@ -212,7 +212,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Damage an Enemy and up to 3 other random Enemies with the same Power by 1. Fresh Crew: Repeat the Deploy ability.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/627\/50060icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/627\/228\/293\/50060icon.png",
         "Row": "Ranged, Melee, Siege",
         "Loyalty": "",
         "Power": "6",
@@ -222,7 +222,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Play a random Bronze or Silver Dwarf from your Deck and Boost it by 3.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/604\/50112icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/604\/228\/293\/50112icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "2",
@@ -232,7 +232,7 @@
     {
         "Type": "Silver",
         "Abilities": "Swap the Power of the Highest and Lowest Unit.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/670\/50042icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/670\/228\/293\/50042icon.png",
         "Row": "Special",
         "Loyalty": "",
         "Power": "0",
@@ -242,7 +242,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Strengthen self by 1 for each Damaged Ally (including Golds), then Damage self by 1.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/590\/50136icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/590\/228\/293\/50136icon.png",
         "Row": "Melee",
         "Loyalty": "",
         "Power": "8",
@@ -252,7 +252,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy: Move a Unit from your opponent's Graveyard to yours. Every turn, at the start of your turn, Damage self by 1 and Units adjacent to this Unit by 2.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/607\/50127icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/607\/228\/293\/50127icon.png",
         "Row": "Ranged, Melee, Siege",
         "Loyalty": "",
         "Power": "5",
@@ -262,7 +262,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Apply Frost to a row on your opponent's side. Frost: Every turn, at the start of your turn, Damage one of the Lowest Units on the row by 2.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/525\/3icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/525\/228\/293\/3icon.png",
         "Row": "Special, Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "0",
@@ -272,7 +272,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Damage an Enemy by 3. If it was Boosted, Damage it by 5 instead.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/716\/50180icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/716\/228\/293\/50180icon.png",
         "Row": "Ranged",
         "Loyalty": "",
         "Power": "5",
@@ -282,7 +282,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Destroy an Ally. Spawn a Bear.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/743\/50216icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/743\/228\/293\/50216icon.png",
         "Row": "Special",
         "Loyalty": "",
         "Power": "0",
@@ -292,7 +292,7 @@
     {
         "Type": "Gold",
         "Abilities": "If this Unit is in your Deck at the end of the Round, place it on top. Whenever an Enemy is Destroyed during a Round while this Unit is in your Deck, Boost it by 1.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/551\/567icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/551\/228\/293\/567icon.png",
         "Row": "Siege, Melee, Ranged",
         "Loyalty": "",
         "Power": "6",
@@ -302,7 +302,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Whenever this Unit is moved, Boost it by 2. Deploy: Play all Blue Mountain Commandos from your Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/496\/3116icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/496\/228\/293\/3116icon.png",
         "Row": "Siege, Melee, Ranged",
         "Loyalty": "",
         "Power": "3",
@@ -312,7 +312,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Whenever a different Ally with the same Power as this Unit is played, play this Unit from your Deck (1 copy max) and place it on that Ally's row. Whenever you complete a Blue Stripes Commando Trio, create 1 base copy of a Blue Stripes Commando on the bottom of your Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/483\/1115icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/483\/228\/293\/1115icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "3",
@@ -322,7 +322,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Gain 2 Armor. Deploy: Clear Weather from the row on your side. Crewmen 1.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/482\/1114icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/482\/228\/293\/1114icon.png",
         "Row": "Ranged, Melee, Siege",
         "Loyalty": "",
         "Power": "6",
@@ -332,7 +332,7 @@
     {
         "Type": "Silver",
         "Abilities": "Veteran 1. Deploy: Spawn a Spectral Whale on your opponent's side.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/515\/5041icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/515\/228\/293\/5041icon.png",
         "Row": "Melee",
         "Loyalty": "",
         "Power": "6",
@@ -342,7 +342,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Boost all Lubberkins in your Hand, Deck and Graveyard by 5. Deathwish: Play a Lubberkin from your Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/732\/50068icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/732\/228\/293\/50068icon.png",
         "Row": "Melee",
         "Loyalty": "",
         "Power": "5",
@@ -352,7 +352,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Damage an Enemy by this Unit's Power.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/647\/50113icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/647\/228\/293\/50113icon.png",
         "Row": "Ranged",
         "Loyalty": "",
         "Power": "5",
@@ -362,7 +362,7 @@
     {
         "Type": "Leader",
         "Abilities": "Spawn Brouver Hoog Deploy: Play a Silver Unit from your Deck. Shuffle the others back.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/763\/50236icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/763\/228\/293\/50236icon.png",
         "Row": "Any",
         "Loyalty": "",
         "Power": "4",
@@ -372,7 +372,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy: If playing as Nilfgaard, trigger your Leader's Deploy ability.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/694\/50158icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/694\/228\/293\/50158icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "4",
@@ -382,7 +382,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Draw the top card from your Deck. Keep it, or place it at the bottom of your Deck and draw the new top card.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/708\/50172icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/708\/228\/293\/50172icon.png",
         "Row": "Ranged, Melee, Siege",
         "Loyalty": "",
         "Power": "10",
@@ -392,7 +392,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy: Move 3 Enemies to this Unit's row on your opponent's side and apply Frost to that row on that side only.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/536\/4004icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/536\/228\/293\/4004icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "9",
@@ -402,7 +402,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy: Resurrect a Unit from your opponent's Graveyard.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/472\/576icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/472\/228\/293\/576icon.png",
         "Row": "Siege, Melee, Ranged",
         "Loyalty": "",
         "Power": "4",
@@ -412,7 +412,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Move 2 Bronze Spying Enemies to your side.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/711\/50175icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/711\/228\/293\/50175icon.png",
         "Row": "Melee",
         "Loyalty": "",
         "Power": "8",
@@ -422,7 +422,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Spawn 2 Harpy Eggs to the left of this Unit.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/577\/4047icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/577\/228\/293\/4047icon.png",
         "Row": "Ranged, Melee, Siege",
         "Loyalty": "",
         "Power": "3",
@@ -432,7 +432,7 @@
     {
         "Type": "Gold",
         "Abilities": "After 4 Units are Resurrected on your side while this Unit is in the Graveyard, Resurrect it.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/768\/50241icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/768\/228\/293\/50241icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "6",
@@ -442,7 +442,7 @@
     {
         "Type": "Silver",
         "Abilities": "Every turn, at the start of your turn, Strengthen this Unit by 2 if it is the only Unit on the row.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/608\/50128icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/608\/228\/293\/50128icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "5",
@@ -452,7 +452,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy, Brave: Strengthen self by 4.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/598\/50028icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/598\/228\/293\/50028icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "6",
@@ -462,7 +462,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Toggle a Unit's Lock and move it to this row on its side.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/646\/50111icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/646\/228\/293\/50111icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "8",
@@ -472,7 +472,7 @@
     {
         "Type": "Gold",
         "Abilities": "At the end of the Round, return this Unit to your Hand if you lost.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/464\/505icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/464\/228\/293\/505icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "5",
@@ -482,7 +482,7 @@
     {
         "Type": "Gold",
         "Abilities": "When this Unit enters the Graveyard, Strengthen it by 3 and shuffle it back into your Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/663\/50018icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/663\/228\/293\/50018icon.png",
         "Row": "Ranged, Melee, Siege",
         "Loyalty": "",
         "Power": "9",
@@ -492,7 +492,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Veteran 1. Whenever this Unit is Discarded, Resurrect it immediately.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/575\/5104icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/575\/228\/293\/5104icon.png",
         "Row": "Melee",
         "Loyalty": "",
         "Power": "4",
@@ -502,7 +502,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Veteran 1. Deploy: Boost 3 Damaged Units to the left by half their Power (rounding down).",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/595\/50040icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/595\/228\/293\/50040icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "7",
@@ -512,7 +512,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Veteran 1. Deploy: Damage self by 1.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/517\/5105icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/517\/228\/293\/5105icon.png",
         "Row": "Melee",
         "Loyalty": "",
         "Power": "9",
@@ -522,7 +522,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Veteran 1. Deploy: Damage 3 Units by 1.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/661\/50143icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/661\/228\/293\/50143icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "5",
@@ -532,7 +532,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Whenever a Unit adjacent to this Unit is Damaged, Strengthen self by 1. Deploy: Damage a Unit by 3.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/658\/50137icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/658\/228\/293\/50137icon.png",
         "Row": "Ranged, Melee, Siege",
         "Loyalty": "",
         "Power": "5",
@@ -542,7 +542,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Veteran 1. Deploy: Discard all copies of this Unit from your Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/568\/5115icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/568\/228\/293\/5115icon.png",
         "Row": "Ranged, Melee, Siege",
         "Loyalty": "",
         "Power": "6",
@@ -552,7 +552,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Veteran 1. Whenever a Unit is Discarded to your Graveyard, Boost self by 1 while in your Hand, Deck or on your side of the Board.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/523\/5116icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/523\/228\/293\/5116icon.png",
         "Row": "Ranged, Melee, Siege",
         "Loyalty": "",
         "Power": "5",
@@ -562,7 +562,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Damage a Unit by 2. If it was already Damaged, play a Clan Drummond Shieldmaiden from your Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/688\/50144icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/688\/228\/293\/50144icon.png",
         "Row": "Ranged",
         "Loyalty": "",
         "Power": "3",
@@ -572,7 +572,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Veteran 1. Deploy: Boost 3 Units to the left by 3, 2 and 1 respectively.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/609\/50138icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/609\/228\/293\/50138icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "4",
@@ -582,7 +582,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Veteran 1. Deploy: Heal 3 Units to the left.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/518\/5106icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/518\/228\/293\/5106icon.png",
         "Row": "Siege, Melee, Ranged",
         "Loyalty": "",
         "Power": "5",
@@ -592,7 +592,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Veteran 1. Deploy: Strengthen an Ally by 2.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/519\/5107icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/519\/228\/293\/5107icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "5",
@@ -602,7 +602,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Whenever an Enemy is Damaged, Boost self by 1. Deploy: Gain 2 Armor.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/659\/50140icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/659\/228\/293\/50140icon.png",
         "Row": "Ranged, Melee, Siege",
         "Loyalty": "",
         "Power": "3",
@@ -612,7 +612,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Veteran 1. Whenever this Unit enters the Graveyard, Strengthen it by 3.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/611\/50141icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/611\/228\/293\/50141icon.png",
         "Row": "Melee",
         "Loyalty": "",
         "Power": "6",
@@ -622,7 +622,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Toggle a Unit's Lock.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/680\/50205icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/680\/228\/293\/50205icon.png",
         "Row": "Melee",
         "Loyalty": "",
         "Power": "6",
@@ -632,7 +632,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Toggle a Unit's Resilience.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/724\/50188icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/724\/228\/293\/50188icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "2",
@@ -642,7 +642,7 @@
     {
         "Type": "Silver",
         "Abilities": "Boost 5 adjacent Units by 4.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/456\/1icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/456\/228\/293\/1icon.png",
         "Row": "Special",
         "Loyalty": "",
         "Power": "0",
@@ -652,7 +652,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Whenever you Mulligan a card, Damage a random Enemy by 2.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/561\/3115icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/561\/228\/293\/3115icon.png",
         "Row": "Melee",
         "Loyalty": "",
         "Power": "7",
@@ -662,7 +662,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy: Pick a Unit and Damage all Units on its row by half their Power (rounding up and ignoring Armor).",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/511\/5005icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/511\/228\/293\/5005icon.png",
         "Row": "Ranged, Siege, Melee",
         "Loyalty": "",
         "Power": "5",
@@ -672,7 +672,7 @@
     {
         "Type": "Leader",
         "Abilities": "Spawn Crach an Craite Deploy: Play the Highest Loyal Bronze or Silver Unit in your Deck, Strengthen it by 3 and Damage it by 1.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/756\/50229icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/756\/228\/293\/50229icon.png",
         "Row": "Any",
         "Loyalty": "",
         "Power": "4",
@@ -682,7 +682,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Play Whispess and Weavess from your Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/501\/4039icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/501\/228\/293\/4039icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "8",
@@ -692,7 +692,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Play Brewess and Whispess from your Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/502\/4040icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/502\/228\/293\/4040icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "6",
@@ -702,7 +702,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Play Brewess and Weavess from your Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/500\/4038icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/500\/228\/293\/4038icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "6",
@@ -712,7 +712,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Reveal one of the Highest Units in your opponent's Hand (including Golds) and Boost self by its Power.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/701\/50165icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/701\/228\/293\/50165icon.png",
         "Row": "Ranged",
         "Loyalty": "",
         "Power": "5",
@@ -722,7 +722,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Weaken a Unit by 3 or Destroy an Ambush Unit.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/678\/50196icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/678\/228\/293\/50196icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "7",
@@ -732,7 +732,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Whenever this Unit is Revealed, play it and draw the top card from your Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/712\/50177icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/712\/228\/293\/50177icon.png",
         "Row": "Melee",
         "Loyalty": "",
         "Power": "4",
@@ -742,7 +742,7 @@
     {
         "Type": "Leader",
         "Abilities": "Spawn Dagon. Deploy: Spawn Biting Frost, Impenetrable Fog or Torrential Rain.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/754\/50227icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/754\/228\/293\/50227icon.png",
         "Row": "Any",
         "Loyalty": "",
         "Power": "6",
@@ -752,7 +752,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy: Boost up to 3 Bronze or Silver Units in your Deck by 3, then shuffle your Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/469\/550icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/469\/228\/293\/550icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "8",
@@ -762,7 +762,7 @@
     {
         "Type": "Silver",
         "Abilities": "Return an Ally to your Hand, Boost it by 3 and play it.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/455\/0icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/455\/228\/293\/0icon.png",
         "Row": "Special",
         "Loyalty": "",
         "Power": "0",
@@ -772,7 +772,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Strengthen all other Bronze and Silver Dwarves in your Deck, Hand and on your side of the Board by 1.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/685\/50108icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/685\/228\/293\/50108icon.png",
         "Row": "Melee",
         "Loyalty": "",
         "Power": "8",
@@ -782,7 +782,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Spawn Torrential Rain, Clear Skies or Alzur's Thunder.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/679\/50055icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/679\/228\/293\/50055icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "3",
@@ -792,7 +792,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy: Play the top 2 cards in your Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/475\/1003icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/475\/228\/293\/1003icon.png",
         "Row": "Siege, Melee, Ranged",
         "Loyalty": "",
         "Power": "3",
@@ -802,7 +802,7 @@
     {
         "Type": "Silver",
         "Abilities": "Choose 3 adjacent Units (can be Golds) and Reset them. If any are Gold, Demote them first.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/600\/50033icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/600\/228\/293\/50033icon.png",
         "Row": "Special",
         "Loyalty": "",
         "Power": "0",
@@ -812,7 +812,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Choose a Unit (can be Gold) and toggle its Lock. If it is Gold, Demote it first.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/672\/50199icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/672\/228\/293\/50199icon.png",
         "Row": "Special",
         "Loyalty": "",
         "Power": "0",
@@ -822,7 +822,7 @@
     {
         "Type": "Silver",
         "Abilities": "Veteran 1. Deploy: Damage 3 Allies by 1 and Strengthen self by 1 for each.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/687\/50129icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/687\/228\/293\/50129icon.png",
         "Row": "Ranged, Melee, Siege",
         "Loyalty": "",
         "Power": "8",
@@ -832,7 +832,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Damage Enemies by 3 and then 1.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/653\/50122icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/653\/228\/293\/50122icon.png",
         "Row": "Ranged",
         "Loyalty": "",
         "Power": "5",
@@ -842,7 +842,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Every time this Unit is moved, Damage a random Enemy by 2. Deploy: Damage an Enemy by 2.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/495\/3113icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/495\/228\/293\/3113icon.png",
         "Row": "Ranged",
         "Loyalty": "",
         "Power": "6",
@@ -852,7 +852,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Whenever you play a Special card, Boost this Unit by 1 while in your Hand, Deck or on your side of the Board.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/751\/50224icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/751\/228\/293\/50224icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "2",
@@ -862,7 +862,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Spawn a Fireball Trap on an opposing row.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/574\/3104icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/574\/228\/293\/3104icon.png",
         "Row": "Ranged",
         "Loyalty": "",
         "Power": "6",
@@ -872,7 +872,7 @@
     {
         "Type": "Silver",
         "Abilities": "Veteran 1. Deploy: Toggle a Unit's Lock. Discard a random Bronze card from your opponent's Deck to your Graveyard.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/512\/5032icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/512\/228\/293\/5032icon.png",
         "Row": "Ranged",
         "Loyalty": "",
         "Power": "6",
@@ -882,7 +882,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Strengthen up to 2 Units in your Graveyard by 3.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/567\/5037icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/567\/228\/293\/5037icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "4",
@@ -892,7 +892,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy: Damage a random Enemy by 1 (ignoring Armor). Repeat 6 times.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/584\/50075icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/584\/228\/293\/50075icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "7",
@@ -902,7 +902,7 @@
     {
         "Type": "Gold",
         "Abilities": "Apply Drought to all rows on your opponent's side. Drought: Every turn, at the start of your turn, Damage one of the Lowest Units on the row by 2.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/740\/50213icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/740\/228\/293\/50213icon.png",
         "Row": "Special",
         "Loyalty": "",
         "Power": "0",
@@ -912,7 +912,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Move a Unit to this row on its side.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/640\/50090icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/640\/228\/293\/50090icon.png",
         "Row": "Siege, Melee, Ranged",
         "Loyalty": "",
         "Power": "8",
@@ -922,7 +922,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Choose an Enemy and copy its Power.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/666\/50020icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/666\/228\/293\/50020icon.png",
         "Row": "Ranged, Melee, Siege",
         "Loyalty": "",
         "Power": "1",
@@ -932,7 +932,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Remove Armor from 2 Units and Boost self by the amount of Armor removed.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/559\/1118icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/559\/228\/293\/1118icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "4",
@@ -942,7 +942,7 @@
     {
         "Type": "Bronze",
         "Abilities": "If at the start of your turn you have not passed and are losing the Round by more than 20 Power, play this Unit from your Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/486\/1117icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/486\/228\/293\/1117icon.png",
         "Row": "Ranged",
         "Loyalty": "",
         "Power": "4",
@@ -952,7 +952,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Move a Unit on another row to this row on its side. If it's an Ally, Boost it by 3.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/546\/3106icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/546\/228\/293\/3106icon.png",
         "Row": "Ranged, Melee, Siege",
         "Loyalty": "",
         "Power": "6",
@@ -962,7 +962,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Damage an Enemy by 3. If the Unit was not Destroyed, Boost self by 2.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/597\/50119icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/597\/228\/293\/50119icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "5",
@@ -972,7 +972,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Give this Unit a Shield. Deathwish: Spawn 2 Lesser Earth Elementals at the end of the row.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/636\/50081icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/636\/228\/293\/50081icon.png",
         "Row": "Melee",
         "Loyalty": "",
         "Power": "6",
@@ -982,7 +982,7 @@
     {
         "Type": "Leader",
         "Abilities": "Spawn Eithn� Deploy: Resurrect a Special card.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/762\/50235icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/762\/228\/293\/50235icon.png",
         "Row": "Any",
         "Loyalty": "",
         "Power": "5",
@@ -992,7 +992,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Gain Resilience. Deploy: Consume an Ally.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/639\/50089icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/639\/228\/293\/50089icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "3",
@@ -1002,7 +1002,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Destroy an Ally and Damage an Enemy by the Destroyed Ally's Power.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/650\/50117icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/650\/228\/293\/50117icon.png",
         "Row": "Melee",
         "Loyalty": "",
         "Power": "9",
@@ -1012,7 +1012,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Draw the top 2 Bronze Special cards in your Deck. Play 1 and shuffle the other back.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/547\/3109icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/547\/228\/293\/3109icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "2",
@@ -1022,7 +1022,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Whenever you Mulligan this Unit, play it from your Deck immediately.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/606\/50124icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/606\/228\/293\/50124icon.png",
         "Row": "Melee",
         "Loyalty": "",
         "Power": "3",
@@ -1032,7 +1032,7 @@
     {
         "Type": "Leader",
         "Abilities": "Spawn Emhyr var Emreis Deploy: Return an Ally to your Hand, then play a card from your Hand (can be Gold).",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/758\/50231icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/758\/228\/293\/50231icon.png",
         "Row": "Any",
         "Loyalty": "",
         "Power": "6",
@@ -1042,7 +1042,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Draw the top 2 Bronze Units (not including Emissaries) from your Deck. Play 1 and shuffle the other back.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/725\/50189icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/725\/228\/293\/50189icon.png",
         "Row": "Ranged, Melee, Siege",
         "Loyalty": "",
         "Power": "2",
@@ -1052,7 +1052,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Destroy all the Lowest Units.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/526\/12icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/526\/228\/293\/12icon.png",
         "Row": "Special",
         "Loyalty": "",
         "Power": "0",
@@ -1062,7 +1062,7 @@
     {
         "Type": "Leader",
         "Abilities": "Spawn Eredin. Deploy: Spawn a Bronze Wild Hunt Unit.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/535\/40000icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/535\/228\/293\/40000icon.png",
         "Row": "Any",
         "Loyalty": "",
         "Power": "5",
@@ -1072,7 +1072,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy: Draw the top 2 cards from your Deck, then Discard 2 cards (can be Golds) from your Hand.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/563\/5002icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/563\/228\/293\/5002icon.png",
         "Row": "Siege, Melee, Ranged",
         "Loyalty": "",
         "Power": "7",
@@ -1082,7 +1082,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Play Vesemir and Lambert from your Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/580\/50021icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/580\/228\/293\/50021icon.png",
         "Row": "Melee",
         "Loyalty": "",
         "Power": "5",
@@ -1092,7 +1092,7 @@
     {
         "Type": "Silver",
         "Abilities": "If this Unit is Spying at the start of your turn, Boost it by 1. If it is Spying when your opponent passes, move it to the opposite side. Deploy: When you play this Unit on your side, Strengthen it by 3.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/710\/50174icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/710\/228\/293\/50174icon.png",
         "Row": "Siege, Melee, Ranged",
         "Loyalty": "",
         "Power": "6",
@@ -1102,7 +1102,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Choose a different Bronze Ally and shuffle it back into your Deck, then play a random Bronze Unit from your Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/569\/1116icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/569\/228\/293\/1116icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "4",
@@ -1112,7 +1112,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Toggle a Unit's Lock. If it's an Enemy, Damage it by half its Power (rounding up and ignoring Armor).",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/576\/4037icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/576\/228\/293\/4037icon.png",
         "Row": "Melee",
         "Loyalty": "",
         "Power": "5",
@@ -1122,7 +1122,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Spawn 3 Lesser Fire Elementals.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/578\/582icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/578\/228\/293\/582icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "7",
@@ -1132,7 +1132,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Whenever this Unit is Revealed, Damage a random Enemy by 3. Deploy: Damage an Enemy by 3.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/717\/50181icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/717\/228\/293\/50181icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "6",
@@ -1142,7 +1142,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Spawn Clear Skies or Rally.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/460\/6icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/460\/228\/293\/6icon.png",
         "Row": "Special",
         "Loyalty": "",
         "Power": "0",
@@ -1152,7 +1152,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Whenever you apply Fog to an opposing row, play this Unit from your Deck or Resurrect it on that row on your side. When all Fog has been cleared from the Board, Destroy this Unit.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/504\/4100icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/504\/228\/293\/4100icon.png",
         "Row": "Ranged, Melee, Siege",
         "Loyalty": "",
         "Power": "2",
@@ -1162,7 +1162,7 @@
     {
         "Type": "Leader",
         "Abilities": "Spawn Foltest Deploy: Boost all Loyal Bronze and Silver Units in your Hand and Deck by 1.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/764\/50237icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/764\/228\/293\/50237icon.png",
         "Row": "Any",
         "Loyalty": "",
         "Power": "5",
@@ -1172,7 +1172,7 @@
     {
         "Type": "Leader",
         "Abilities": "Spawn Francesca Deploy: Mulligan up to 3 cards.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/761\/50234icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/761\/228\/293\/50234icon.png",
         "Row": "Any",
         "Loyalty": "",
         "Power": "6",
@@ -1182,7 +1182,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Move a Unit on another row on this side to this row. Draw the top card from your Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/537\/4036icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/537\/228\/293\/4036icon.png",
         "Row": "Siege, Melee, Ranged",
         "Loyalty": "",
         "Power": "10",
@@ -1192,7 +1192,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: If Spying, set own base Power to 1. Deploy: Set the Power of the Unit on the right to that of the Unit on the left.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/703\/50167icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/703\/228\/293\/50167icon.png",
         "Row": "Siege, Melee, Ranged",
         "Loyalty": "",
         "Power": "6",
@@ -1202,7 +1202,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy: Guess whether a random Bronze or Silver Unit from your opponent's Deck is Higher or Lower than 5. Success: Play any card from your Deck. Shuffle the others back. Failure: Your opponent draws the top Bronze or Silver card from their Deck. Tie: Both players draw the top Bronze or Silver card from their Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/550\/555icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/550\/228\/293\/555icon.png",
         "Row": "Siege, Melee, Ranged",
         "Loyalty": "",
         "Power": "5",
@@ -1212,7 +1212,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy: Draw the top Gold card and top Silver card from your Deck. Play one and return the other to the top of your Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/633\/50074icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/633\/228\/293\/50074icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "2",
@@ -1222,7 +1222,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy, Brave: Strengthen self by 3.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/468\/517icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/468\/228\/293\/517icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "10",
@@ -1232,7 +1232,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy: Push 5 adjacent Enemies to the row above them and Damage them by 2.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/664\/50019icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/664\/228\/293\/50019icon.png",
         "Row": "Ranged, Melee, Siege",
         "Loyalty": "",
         "Power": "8",
@@ -1242,7 +1242,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy: Destroy all the Highest Units on the opposite row if that row totals 20 or more Power.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/463\/501icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/463\/228\/293\/501icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "4",
@@ -1252,7 +1252,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Consume a random Unit from either Graveyard.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/637\/50086icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/637\/228\/293\/50086icon.png",
         "Row": "Melee",
         "Loyalty": "",
         "Power": "4",
@@ -1262,7 +1262,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Consume a card in your Hand, then draw the top card from your Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/539\/4042icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/539\/228\/293\/4042icon.png",
         "Row": "Siege, Melee, Ranged",
         "Loyalty": "",
         "Power": "5",
@@ -1272,7 +1272,7 @@
     {
         "Type": "Silver",
         "Abilities": "After 1 turn, at the start of your turn, Consume all Units in your Graveyard, but only Boost self by 1 for each.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/548\/4033icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/548\/228\/293\/4033icon.png",
         "Row": "Ranged, Melee, Siege",
         "Loyalty": "",
         "Power": "2",
@@ -1282,7 +1282,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Spawn Impenetrable Fog, Clear Skies or Bloodcurdling Roar.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/589\/50130icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/589\/228\/293\/50130icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "3",
@@ -1292,7 +1292,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Move a card from one Graveyard to the other.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/541\/4110icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/541\/228\/293\/4110icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "8",
@@ -1302,7 +1302,7 @@
     {
         "Type": "Leader",
         "Abilities": "Spawn Harald the Cripple Deploy: Damage a Unit by 5. If this Destroys it, repeat this ability with Damage Power reduced by 1.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/757\/50230icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/757\/228\/293\/50230icon.png",
         "Row": "Any",
         "Loyalty": "",
         "Power": "3",
@@ -1312,7 +1312,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Trigger the Deathwish of Units adjacent to this Unit.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/684\/50091icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/684\/228\/293\/50091icon.png",
         "Row": "Ranged, Melee, Siege",
         "Loyalty": "",
         "Power": "3",
@@ -1322,7 +1322,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Boost 2 Units to the right by 3.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/493\/3100icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/493\/228\/293\/3100icon.png",
         "Row": "Ranged, Siege, Melee",
         "Loyalty": "",
         "Power": "4",
@@ -1332,7 +1332,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Whenever an Enemy appears, Boost self by 1.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/545\/3101icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/545\/228\/293\/3101icon.png",
         "Row": "Ranged",
         "Loyalty": "",
         "Power": "4",
@@ -1342,7 +1342,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Boost a Unit in your Hand by 3.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/654\/50123icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/654\/228\/293\/50123icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "6",
@@ -1352,7 +1352,7 @@
     {
         "Type": "Leader",
         "Abilities": "Spawn Henselt Deploy: Choose a Bronze Ally. Play all copies of it from your Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/766\/50239icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/766\/228\/293\/50239icon.png",
         "Row": "Any",
         "Loyalty": "",
         "Power": "2",
@@ -1362,7 +1362,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy: Spawn the Lord of Undvik on the leftmost side of the opposite row.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/510\/5000icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/510\/228\/293\/5000icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "13",
@@ -1372,7 +1372,7 @@
     {
         "Type": "Silver",
         "Abilities": "Veteran 1. Deploy: Damage a Unit by 5. If it was Destroyed, Strengthen one of the Highest Units in your Graveyard by 3.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/655\/50131icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/655\/228\/293\/50131icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "5",
@@ -1382,7 +1382,7 @@
     {
         "Type": "Bronze",
         "Abilities": "If Frost is anywhere on the Board, Boost self by 5. When the last Frost is cleared, Damage self by 5.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/499\/4035icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/499\/228\/293\/4035icon.png",
         "Row": "Siege, Melee, Ranged",
         "Loyalty": "",
         "Power": "5",
@@ -1392,7 +1392,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Spawn Impenetrable Fog, Clear Skies or Quen Sign.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/644\/50109icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/644\/228\/293\/50109icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "4",
@@ -1402,7 +1402,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy: Damage an Enemy by 4. If the Enemy is under Frost, Damage it by 8 instead.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/497\/4002icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/497\/228\/293\/4002icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "8",
@@ -1412,7 +1412,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Add 3 Armor to 3 adjacent Units and Boost them by 3.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/738\/50211icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/738\/228\/293\/50211icon.png",
         "Row": "Special",
         "Loyalty": "",
         "Power": "0",
@@ -1422,7 +1422,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Apply Fog to a row on your opponent's side. Fog: Every turn, at the start of your turn, Damage the Highest Unit on the row by 2.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/458\/4icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/458\/228\/293\/4icon.png",
         "Row": "Special, Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "0",
@@ -1432,7 +1432,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Whenever you play a Spying Unit (including Golds), Boost self by 2. Deploy: Boost self by 2 for each Spying Enemy (including Golds).",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/718\/50182icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/718\/228\/293\/50182icon.png",
         "Row": "Melee",
         "Loyalty": "",
         "Power": "6",
@@ -1442,7 +1442,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Look at the top card in your Deck. If it's Bronze, gain 2 Armor. If it's Silver, Boost self by 1. If it's Gold, Promote self.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/719\/50183icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/719\/228\/293\/50183icon.png",
         "Row": "Ranged",
         "Loyalty": "",
         "Power": "8",
@@ -1452,7 +1452,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Orders: Play this Unit from your Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/736\/50098icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/736\/228\/293\/50098icon.png",
         "Row": "Melee",
         "Loyalty": "",
         "Power": "2",
@@ -1462,7 +1462,7 @@
     {
         "Type": "Gold",
         "Abilities": "Whenever an Enemy moves to a different row, Damage it by 2. Deploy: Damage an Enemy by 4.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/643\/50106icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/643\/228\/293\/50106icon.png",
         "Row": "Ranged, Melee, Siege",
         "Loyalty": "",
         "Power": "6",
@@ -1472,7 +1472,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deathwish: Boost all Units on the other side of the Board by 3.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/668\/50197icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/668\/228\/293\/50197icon.png",
         "Row": "Siege, Melee, Ranged",
         "Loyalty": "",
         "Power": "3",
@@ -1482,7 +1482,7 @@
     {
         "Type": "Gold",
         "Abilities": "Play a Bronze or Silver Ambush card from your Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/642\/50105icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/642\/228\/293\/50105icon.png",
         "Row": "Ranged, Melee, Siege",
         "Loyalty": "",
         "Power": "7",
@@ -1492,7 +1492,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy: Play a Bronze Special card from your Deck, then Spawn a copy of it. Shuffle the others back.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/491\/3040icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/491\/228\/293\/3040icon.png",
         "Row": "Ranged, Melee, Siege",
         "Loyalty": "",
         "Power": "5",
@@ -1502,7 +1502,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Play the top Loyal Bronze or Silver Unit in your Deck and Boost it by 10.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/709\/50173icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/709\/228\/293\/50173icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "5",
@@ -1512,7 +1512,7 @@
     {
         "Type": "Leader",
         "Abilities": "Spawn John Calveit Deploy: Look at the top 3 Bronze or Silver cards in your Deck. Play 1. The others remain on top.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/760\/50233icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/760\/228\/293\/50233icon.png",
         "Row": "Any",
         "Loyalty": "",
         "Power": "3",
@@ -1522,7 +1522,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy: Force all Northern Realms Machine Allies to Damage a random Enemy by 2.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/552\/1001icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/552\/228\/293\/1001icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "8",
@@ -1532,7 +1532,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Discard a card from your Hand (can be Gold), then create a copy in your Hand of a card of the same color in your opponent's Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/614\/50023icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/614\/228\/293\/50023icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "7",
@@ -1542,7 +1542,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Move 3 adjacent Enemies to this Unit's row on their side and Damage them by 2.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/771\/50244icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/771\/228\/293\/50244icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "6",
@@ -1552,7 +1552,7 @@
     {
         "Type": "Silver",
         "Abilities": "Veteran 1. Deploy: Damage self by 1.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/656\/50132icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/656\/228\/293\/50132icon.png",
         "Row": "Melee",
         "Loyalty": "",
         "Power": "12",
@@ -1562,7 +1562,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Boost by 1 this Unit and all Bronze Loyal Units with the same Power in your Hand, Deck or on your side of the Board. Crewmen 1.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/626\/50059icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/626\/228\/293\/50059icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "3",
@@ -1572,7 +1572,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Return a Machine Ally to your Hand and immediately play it again. Crewmen 1.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/681\/50067icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/681\/228\/293\/50067icon.png",
         "Row": "Ranged, Melee, Siege",
         "Loyalty": "",
         "Power": "3",
@@ -1582,7 +1582,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Whenever an Ally appears, Boost it by 1. If it's a Machine, Boost it by 1 and add 1 Armor. Crewmen 1.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/481\/1112icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/481\/228\/293\/1112icon.png",
         "Row": "Siege, Melee, Ranged",
         "Loyalty": "",
         "Power": "4",
@@ -1592,7 +1592,7 @@
     {
         "Type": "Gold",
         "Abilities": "After 3 turns, at the start of your turn, Spawn Hemdall.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/564\/5003icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/564\/228\/293\/5003icon.png",
         "Row": "Ranged, Melee, Siege",
         "Loyalty": "",
         "Power": "1",
@@ -1602,7 +1602,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Consume a Unit from either Graveyard.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/538\/4041icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/538\/228\/293\/4041icon.png",
         "Row": "Melee",
         "Loyalty": "",
         "Power": "5",
@@ -1612,7 +1612,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy: Consume a Unit from your Hand, then Boost self by an additional 8.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/675\/50076icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/675\/228\/293\/50076icon.png",
         "Row": "Siege, Melee, Ranged",
         "Loyalty": "",
         "Power": "8",
@@ -1622,7 +1622,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy: Spawn Quen Sign, Epidemic or Thunderbolt Potion.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/674\/50052icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/674\/228\/293\/50052icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "5",
@@ -1632,7 +1632,7 @@
     {
         "Type": "Leader",
         "Abilities": "Spawn King Bran Deploy: Discard up to 3 cards from your Deck and Strengthen all Units among them by 1. Then shuffle your deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/755\/50228icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/755\/228\/293\/50228icon.png",
         "Row": "Any",
         "Loyalty": "",
         "Power": "4",
@@ -1642,7 +1642,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy, Brave: Strengthen self enough to tie the Round or to a maximum of 15 base Power.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/667\/50195icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/667\/228\/293\/50195icon.png",
         "Row": "Ranged",
         "Loyalty": "",
         "Power": "5",
@@ -1652,7 +1652,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Damage all Units on a row by 3.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/662\/50151icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/662\/228\/293\/50151icon.png",
         "Row": "Melee, Ranged, Siege, Special",
         "Loyalty": "",
         "Power": "0",
@@ -1662,7 +1662,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Play Eskel and Vesemir from your Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/531\/564icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/531\/228\/293\/564icon.png",
         "Row": "Melee",
         "Loyalty": "",
         "Power": "5",
@@ -1672,7 +1672,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy: Reveal a Unit in your Hand (can be Gold) and Damage an Enemy by its base Power.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/748\/50221icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/748\/228\/293\/50221icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "6",
@@ -1682,7 +1682,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy: If Spying, set own base Power to 1. Deploy: Banish 2 Units to each side of this Unit and Boost this Unit by their Power.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/691\/50155icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/691\/228\/293\/50155icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "7",
@@ -1692,7 +1692,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Every turn, at the start of your turn, Damage the Unit to the right by 1, then Strengthen self by 2.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/610\/50139icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/610\/228\/293\/50139icon.png",
         "Row": "Siege, Melee, Ranged",
         "Loyalty": "",
         "Power": "5",
@@ -1702,7 +1702,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Boost all Botchlings in your Hand, Deck and Graveyard by 5. Deathwish: Play a Botchling from your Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/733\/50069icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/733\/228\/293\/50069icon.png",
         "Row": "Ranged",
         "Loyalty": "",
         "Power": "5",
@@ -1712,7 +1712,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy: Discard a Bronze Unit from your Deck and Damage a Unit by the Discarded Unit's base Power.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/565\/5031icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/565\/228\/293\/5031icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "7",
@@ -1722,7 +1722,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Gain Resilience.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/605\/50120icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/605\/228\/293\/50120icon.png",
         "Row": "Melee",
         "Loyalty": "",
         "Power": "5",
@@ -1732,7 +1732,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Boost an Ally by 3. If it's a Dwarf, Boost by 4 instead.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/494\/3108icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/494\/228\/293\/3108icon.png",
         "Row": "Melee",
         "Loyalty": "",
         "Power": "5",
@@ -1742,7 +1742,7 @@
     {
         "Type": "Silver",
         "Abilities": "Every turn, at the start of your turn, move a random Unit on another row on this side to this row. Deploy: Gain 3 Armor.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/677\/50114icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/677\/228\/293\/50114icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "4",
@@ -1752,7 +1752,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Whenever a card is Revealed, Damage a random Enemy by 2.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/727\/50191icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/727\/228\/293\/50191icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "6",
@@ -1762,7 +1762,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy, Brave: Strengthen self by 4.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/562\/4045icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/562\/228\/293\/4045icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "9",
@@ -1772,7 +1772,7 @@
     {
         "Type": "Silver",
         "Abilities": "Damage 5 adjacent Units by 4.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/617\/50036icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/617\/228\/293\/50036icon.png",
         "Row": "Special",
         "Loyalty": "",
         "Power": "0",
@@ -1782,7 +1782,7 @@
     {
         "Type": "Silver",
         "Abilities": "Boost one of the Lowest Bronze or Silver Units in your Deck by 2 and play it.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/741\/50214icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/741\/228\/293\/50214icon.png",
         "Row": "Special",
         "Loyalty": "",
         "Power": "0",
@@ -1792,7 +1792,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Spawn Spores or Mutagen.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/673\/50203icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/673\/228\/293\/50203icon.png",
         "Row": "Special",
         "Loyalty": "",
         "Power": "0",
@@ -1802,7 +1802,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Reset a Unit and toggle its Lock.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/625\/50058icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/625\/228\/293\/50058icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "4",
@@ -1812,7 +1812,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy: Destroy all Spying Enemies.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/692\/50156icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/692\/228\/293\/50156icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "8",
@@ -1822,7 +1822,7 @@
     {
         "Type": "Silver",
         "Abilities": "Damage all Units on a row by half their Power (rounding up and ignoring Armor).",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/615\/50031icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/615\/228\/293\/50031icon.png",
         "Row": "Special, Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "0",
@@ -1832,7 +1832,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy: If neither player has passed, return the Highest Enemy to your opponent's Hand, then return the Highest Ally to your Hand.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/588\/50107icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/588\/228\/293\/50107icon.png",
         "Row": "Siege, Melee, Ranged",
         "Loyalty": "",
         "Power": "9",
@@ -1842,7 +1842,7 @@
     {
         "Type": "Silver",
         "Abilities": "Spawn a Bronze Necrophage or Insectoid Unit and Boost it by 2.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/641\/50102icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/641\/228\/293\/50102icon.png",
         "Row": "Special",
         "Loyalty": "",
         "Power": "0",
@@ -1852,7 +1852,7 @@
     {
         "Type": "Silver",
         "Abilities": "Ambush: When an Enemy appears, turn Morenn over and Damage that Enemy by 5 before its Deploy ability resolves.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/490\/3037icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/490\/228\/293\/3037icon.png",
         "Row": "Ranged, Siege, Melee",
         "Loyalty": "",
         "Power": "6",
@@ -1862,7 +1862,7 @@
     {
         "Type": "Silver",
         "Abilities": "Whenever this Unit is Discarded or Destroyed, Resurrect it and Weaken it by half its Power (rounding up).",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/516\/5043icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/516\/228\/293\/5043icon.png",
         "Row": "Melee",
         "Loyalty": "",
         "Power": "9",
@@ -1872,7 +1872,7 @@
     {
         "Type": "Leader",
         "Abilities": "Spawn Morvran Voorhis Deploy: Reveal up to 3 cards from either player's Hand (can be Golds).",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/759\/50232icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/759\/228\/293\/50232icon.png",
         "Row": "Any",
         "Loyalty": "",
         "Power": "6",
@@ -1882,7 +1882,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Damage Units by 2, 2 and then 1.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/471\/575icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/471\/228\/293\/575icon.png",
         "Row": "Ranged",
         "Loyalty": "",
         "Power": "5",
@@ -1892,7 +1892,7 @@
     {
         "Type": "Silver",
         "Abilities": "Play a Bronze or Silver Special card from your Deck. Shuffle the others back.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/542\/11icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/542\/228\/293\/11icon.png",
         "Row": "Special",
         "Loyalty": "",
         "Power": "0",
@@ -1902,7 +1902,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Damage a Spying Unit by 5. If it was Destroyed, Strengthen self by 4.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/721\/50185icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/721\/228\/293\/50185icon.png",
         "Row": "Ranged",
         "Loyalty": "",
         "Power": "5",
@@ -1912,7 +1912,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Clear Weather from the row on your side and Boost 1 Ally or Revealed Unit in your Hand by 3.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/720\/50184icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/720\/228\/293\/50184icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "4",
@@ -1922,7 +1922,7 @@
     {
         "Type": "Silver",
         "Abilities": "Banish a Unit from either Graveyard and Boost an Ally by its Power.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/742\/50215icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/742\/228\/293\/50215icon.png",
         "Row": "Special",
         "Loyalty": "",
         "Power": "0",
@@ -1932,7 +1932,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Whenever an Ally Consumes a card while this Unit is in your Hand, Deck or on your side of the Board, Boost self by 1. Deathwish: Play a Nekker from your Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/585\/50085icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/585\/228\/293\/50085icon.png",
         "Row": "Melee",
         "Loyalty": "",
         "Power": "3",
@@ -1942,7 +1942,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Choose a Bronze Ally and create 2 base copies of it on the bottom of your Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/635\/50080icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/635\/228\/293\/50080icon.png",
         "Row": "Melee",
         "Loyalty": "",
         "Power": "5",
@@ -1952,7 +1952,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Shuffle up to 3 cards from your Graveyard into your Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/553\/1042icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/553\/228\/293\/1042icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "8",
@@ -1962,7 +1962,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Gain 2 Armor. Deploy: Reveal a random card from your Hand (can be Gold).",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/728\/50208icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/728\/228\/293\/50208icon.png",
         "Row": "Melee",
         "Loyalty": "",
         "Power": "10",
@@ -1972,7 +1972,7 @@
     {
         "Type": "Silver",
         "Abilities": "Frost Damage on your opponent's side is increased to 3.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/503\/4051icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/503\/228\/293\/4051icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "7",
@@ -1982,7 +1982,7 @@
     {
         "Type": "Silver",
         "Abilities": "After 4 turns, at the start of your turn, Damage all Enemies by 1, return this Unit to your Hand and Transform it into Exhausted Ocvist.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/544\/574icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/544\/228\/293\/574icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "6",
@@ -1992,7 +1992,7 @@
     {
         "Type": "Silver",
         "Abilities": "Every turn, at the start of your turn, move this Unit to a random row and Boost all Units on it by 1.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/554\/1043icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/554\/228\/293\/1043icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "5",
@@ -2002,7 +2002,7 @@
     {
         "Type": "Gold",
         "Abilities": "If at the start of your turn there are 3 or more Units on the opposite row, wake up. Deploy: Boost Units adjacent to this Unit by 1.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/683\/50082icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/683\/228\/293\/50082icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "5",
@@ -2012,7 +2012,7 @@
     {
         "Type": "Silver",
         "Abilities": "When this Unit is Discarded or Destroyed, Weaken it by half (rounding up). At the start of Rounds 2 and 3, Resurrect this Unit if it is in the Graveyard.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/613\/50022icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/613\/228\/293\/50022icon.png",
         "Row": "Melee",
         "Loyalty": "",
         "Power": "9",
@@ -2022,7 +2022,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Choose a Bronze Unit in your Hand and create a base copy of it in both players' Hands.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/532\/568icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/532\/228\/293\/568icon.png",
         "Row": "Ranged",
         "Loyalty": "",
         "Power": "7",
@@ -2032,7 +2032,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Boost up to 6 random Allies by 2.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/739\/50212icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/739\/228\/293\/50212icon.png",
         "Row": "Special",
         "Loyalty": "",
         "Power": "0",
@@ -2042,7 +2042,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: If neither player has passed, shuffle the Lowest Ally into your Deck, then shuffle the Lowest Enemy into your opponent's Deck. Does not affect Pavetta.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/624\/50057icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/624\/228\/293\/50057icon.png",
         "Row": "Ranged",
         "Loyalty": "",
         "Power": "7",
@@ -2052,7 +2052,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Reset a Unit. If it's an Ally, Strengthen it by 3. If it's an Enemy, Weaken it by 3.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/702\/50166icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/702\/228\/293\/50166icon.png",
         "Row": "Melee",
         "Loyalty": "",
         "Power": "4",
@@ -2062,7 +2062,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy: Damage an Enemy by 5, then Damage random Enemies by 4, 3, 2 and 1. The same Enemy cannot be Damaged twice in a row.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/621\/50051icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/621\/228\/293\/50051icon.png",
         "Row": "Siege, Melee, Ranged",
         "Loyalty": "",
         "Power": "1",
@@ -2072,7 +2072,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Resurrect a Bronze Unit.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/524\/5117icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/524\/228\/293\/5117icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "1",
@@ -2082,7 +2082,7 @@
     {
         "Type": "Silver",
         "Abilities": "Every 2 turns, at the start of your turn, Boost this Unit by the number of Machine Allies. Crewmen 1. Deploy: Gain 2 Armor.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/601\/50056icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/601\/228\/293\/50056icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "7",
@@ -2092,7 +2092,7 @@
     {
         "Type": "Gold",
         "Abilities": "Every turn, at the end of your turn, Boost a random Ally (but never self) by 3. Ability discontinues after the Unit Boosts Allies 4 times without leaving the Board.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/549\/551icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/549\/228\/293\/551icon.png",
         "Row": "Siege, Melee, Ranged",
         "Loyalty": "",
         "Power": "4",
@@ -2102,7 +2102,7 @@
     {
         "Type": "Silver",
         "Abilities": "Retaliation: Spawn a Chort on the row. Deathwish: Spawn a Chort on the row.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/529\/559icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/529\/228\/293\/559icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "2",
@@ -2112,7 +2112,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Resurrect all your Queensguards.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/520\/5114icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/520\/228\/293\/5114icon.png",
         "Row": "Melee",
         "Loyalty": "",
         "Power": "4",
@@ -2122,7 +2122,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Choose a Unit in your Hand. Give all copies of it in your Hand and Deck a Shield and Boost them by 2. Units which already have a Shield cannot be chosen and aren't affected.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/676\/50101icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/676\/228\/293\/50101icon.png",
         "Row": "Special",
         "Loyalty": "",
         "Power": "0",
@@ -2132,7 +2132,7 @@
     {
         "Type": "Leader",
         "Abilities": "Spawn Radovid Deploy: Toggle 2 Units' Lock. If Enemies, Damage them by 4 as well.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/765\/50238icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/765\/228\/293\/50238icon.png",
         "Row": "Any",
         "Loyalty": "",
         "Power": "5",
@@ -2142,7 +2142,7 @@
     {
         "Type": "Gold",
         "Abilities": "Apply Ragh Nar Roog to all rows on your opponent's side. Ragh Nar Roog: Every turn, at the start of your turn, Damage one of the Highest Units on the row by 2.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/581\/50029icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/581\/228\/293\/50029icon.png",
         "Row": "Special, Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "0",
@@ -2152,7 +2152,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Retaliation: Transform into a Raging Bear.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/596\/50135icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/596\/228\/293\/50135icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "6",
@@ -2162,7 +2162,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy: Play a Bronze or Silver Disloyal Unit from your Deck. Shuffle the others back.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/749\/50222icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/749\/228\/293\/50222icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "4",
@@ -2172,7 +2172,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy or Bond: Boost all Reaver Hunters in your Hand, Deck and on your side of the Board by 1. When a Reaver Hunter Trio is completed, Damage the Highest Enemy by half its Power (rounding up and ignoring Armor).",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/592\/50064icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/592\/228\/293\/50064icon.png",
         "Row": "Ranged, Melee, Siege",
         "Loyalty": "",
         "Power": "4",
@@ -2182,7 +2182,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Choose a different Bronze Ally. Play a copy of it from your Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/558\/1108icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/558\/228\/293\/1108icon.png",
         "Row": "Ranged",
         "Loyalty": "",
         "Power": "1",
@@ -2192,7 +2192,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Whenever this Unit's Armor reaches 0, Boost self by 5. Deploy: Gain 4 Armor.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/480\/1111icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/480\/228\/293\/1111icon.png",
         "Row": "Siege, Melee, Ranged",
         "Loyalty": "",
         "Power": "6",
@@ -2202,7 +2202,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Every turn, at the start of your turn, if this Unit has no Armor, Boost it by 2 and add 2 Armor to it.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/583\/50065icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/583\/228\/293\/50065icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "6",
@@ -2212,7 +2212,7 @@
     {
         "Type": "Bronze",
         "Abilities": "If this Unit has Armor at the start of your turn, Boost Units adjacent to it by 1. Deploy: Gain 2 Armor.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/570\/10icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/570\/228\/293\/10icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "5",
@@ -2222,7 +2222,7 @@
     {
         "Type": "Gold",
         "Abilities": "After 2 turns, at the start of your turn, Boost self by 7 if you are winning the Round.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/571\/552icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/571\/228\/293\/552icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "8",
@@ -2232,7 +2232,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy: Look at 3 random Bronze Units from your opponent's Deck. Consume 1, Boost self by base Power of the consumed Unit, then shuffle the others back.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/731\/50016icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/731\/228\/293\/50016icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "6",
@@ -2242,7 +2242,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Damage an Enemy by 2. Fresh Crew: Repeat the Deploy ability.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/628\/50061icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/628\/228\/293\/50061icon.png",
         "Row": "Ranged, Melee, Siege",
         "Loyalty": "",
         "Power": "6",
@@ -2252,7 +2252,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Add 2 Armor to Units adjacent to this Unit. Fresh Crew: Boost self by 3.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/630\/50063icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/630\/228\/293\/50063icon.png",
         "Row": "Siege, Melee, Ranged",
         "Loyalty": "",
         "Power": "6",
@@ -2262,7 +2262,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Every turn, at the start of your turn, Damage a random Enemy by 1.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/631\/50066icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/631\/228\/293\/50066icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "6",
@@ -2272,7 +2272,7 @@
     {
         "Type": "Silver",
         "Abilities": "Play a Bronze or Silver Unit from your Deck. Shuffle the others back.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/632\/50071icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/632\/228\/293\/50071icon.png",
         "Row": "Special",
         "Loyalty": "",
         "Power": "0",
@@ -2282,7 +2282,7 @@
     {
         "Type": "Gold",
         "Abilities": "Resurrect a Gold Unit from your Graveyard.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/671\/50043icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/671\/228\/293\/50043icon.png",
         "Row": "Special",
         "Loyalty": "",
         "Power": "0",
@@ -2292,7 +2292,7 @@
     {
         "Type": "Silver",
         "Abilities": "Return a Unit from your Graveyard to your Hand, then Discard a card from your Hand.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/612\/50150icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/612\/228\/293\/50150icon.png",
         "Row": "Special",
         "Loyalty": "",
         "Power": "0",
@@ -2302,7 +2302,7 @@
     {
         "Type": "Silver",
         "Abilities": "Whenever you play a Gold Unit from your Hand, play Roach from your Deck on a random row before that Unit's Deploy ability resolves.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/470\/566icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/470\/228\/293\/566icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "4",
@@ -2312,7 +2312,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Spawn a Cow Carcass on your opponent's side.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/713\/50207icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/713\/228\/293\/50207icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "6",
@@ -2322,7 +2322,7 @@
     {
         "Type": "Gold",
         "Abilities": "Play a Gold card from your Deck. Shuffle the others back.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/753\/50226icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/753\/228\/293\/50226icon.png",
         "Row": "Special",
         "Loyalty": "",
         "Power": "0",
@@ -2332,7 +2332,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deathwish: Set all Units on the row to the Power of the Lowest Unit on the row.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/623\/50054icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/623\/228\/293\/50054icon.png",
         "Row": "Ranged, Melee, Siege",
         "Loyalty": "",
         "Power": "3",
@@ -2342,7 +2342,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy: Boost self by 1 for each Dwarf Ally (including Golds). Damage an Enemy by the number of Elf Allies (including Golds).",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/487\/3000icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/487\/228\/293\/3000icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "9",
@@ -2352,7 +2352,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Shuffle a card from your Hand (can be Gold) back into your Deck, then draw the top different card of the same color from your Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/473\/584icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/473\/228\/293\/584icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "8",
@@ -2362,7 +2362,7 @@
     {
         "Type": "Gold",
         "Abilities": "Orders: Play this Unit from your Deck on a random row.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/769\/50242icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/769\/228\/293\/50242icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "7",
@@ -2372,7 +2372,7 @@
     {
         "Type": "Bronze",
         "Abilities": "After an Enemy is played from any Hand and its Deploy ability resolves, Damage it by 1.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/513\/5036icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/513\/228\/293\/5036icon.png",
         "Row": "Melee",
         "Loyalty": "",
         "Power": "7",
@@ -2382,7 +2382,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy: You may Transform a card from your Hand (can be Gold) into Scorch.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/572\/3042icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/572\/228\/293\/3042icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "10",
@@ -2392,7 +2392,7 @@
     {
         "Type": "Silver",
         "Abilities": "Destroy all the Highest Units.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/457\/2icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/457\/228\/293\/2icon.png",
         "Row": "Special",
         "Loyalty": "",
         "Power": "0",
@@ -2402,7 +2402,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Set the Power of a Revealed Unit in your opponent's Hand to 1.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/707\/50171icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/707\/228\/293\/50171icon.png",
         "Row": "Melee",
         "Loyalty": "",
         "Power": "9",
@@ -2412,7 +2412,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Trigger the Deathwish of 3 Units to the right.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/735\/50097icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/735\/228\/293\/50097icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "7",
@@ -2422,7 +2422,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy: Resurrect a Unit and add 4 Armor to it.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/476\/1006icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/476\/228\/293\/1006icon.png",
         "Row": "Ranged, Melee, Siege",
         "Loyalty": "",
         "Power": "4",
@@ -2432,7 +2432,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Move all Units on the row to random rows on the same side and Boost self by 1 for each.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/492\/3043icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/492\/228\/293\/3043icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "8",
@@ -2442,7 +2442,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Resurrect a Unit.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/514\/5038icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/514\/228\/293\/5038icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "3",
@@ -2452,7 +2452,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: You may play a Bronze Special card from your Hand. If you do, draw the top card from your Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/622\/50053icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/622\/228\/293\/50053icon.png",
         "Row": "Ranged",
         "Loyalty": "",
         "Power": "6",
@@ -2462,7 +2462,7 @@
     {
         "Type": "Silver",
         "Abilities": "Apply Skellige Storm to a row on your opponent's side. Skellige Storm: Every turn, at the start of your turn, Damage the leftmost units on the row by 2, 2 and 1, respectively.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/461\/8icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/461\/228\/293\/8icon.png",
         "Row": "Special, Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "0",
@@ -2472,7 +2472,7 @@
     {
         "Type": "Silver",
         "Abilities": "Veteran 1. After 2 turns, at the end of your turn, convert this Unit's current Power into base Power.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/770\/50243icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/770\/228\/293\/50243icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "6",
@@ -2482,7 +2482,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Whenever either player Reveals a card, Boost self by 1 while in your Hand, Deck or on your side of the Board.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/714\/50178icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/714\/228\/293\/50178icon.png",
         "Row": "Ranged, Melee, Siege",
         "Loyalty": "",
         "Power": "4",
@@ -2492,7 +2492,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Damage up to 6 random Enemies by 2.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/616\/50032icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/616\/228\/293\/50032icon.png",
         "Row": "Special",
         "Loyalty": "",
         "Power": "0",
@@ -2502,7 +2502,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy: Choose any card from your Deck and place it on top. Then shuffle the rest of your Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/696\/50160icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/696\/228\/293\/50160icon.png",
         "Row": "Ranged, Melee, Siege",
         "Loyalty": "",
         "Power": "10",
@@ -2512,7 +2512,7 @@
     {
         "Type": "Gold",
         "Abilities": "If played on your opponent's side, then after 2 turns, at the end of your turn, move the Highest other Unit on its row to your side.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/682\/50077icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/682\/228\/293\/50077icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "5",
@@ -2522,7 +2522,7 @@
     {
         "Type": "Silver",
         "Abilities": "Spawn a base copy of the last Enemy your opponent played from their Hand.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/744\/50217icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/744\/228\/293\/50217icon.png",
         "Row": "Special",
         "Loyalty": "",
         "Power": "0",
@@ -2532,7 +2532,7 @@
     {
         "Type": "Silver",
         "Abilities": "Veteran 1. Deploy: Draw the top card from your Deck, then Discard a card from your Hand (can be Gold).",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/657\/50134icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/657\/228\/293\/50134icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "6",
@@ -2542,7 +2542,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Boost a Unit by 8.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/619\/50038icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/619\/228\/293\/50038icon.png",
         "Row": "Special",
         "Loyalty": "",
         "Power": "0",
@@ -2552,7 +2552,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Choose an Enemy or a Revealed opposing Unit and move all copies of it from your opponent's Deck to their Graveyard.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/704\/50168icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/704\/228\/293\/50168icon.png",
         "Row": "Melee",
         "Loyalty": "",
         "Power": "7",
@@ -2562,7 +2562,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Play all Temerian Infantrymen from your Deck on the row.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/555\/1107icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/555\/228\/293\/1107icon.png",
         "Row": "Ranged, Melee, Siege",
         "Loyalty": "",
         "Power": "3",
@@ -2572,7 +2572,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Draw the top 2 cards from your Deck. Keep 1 and shuffle the other back.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/477\/1030icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/477\/228\/293\/1030icon.png",
         "Row": "Siege, Melee, Ranged",
         "Loyalty": "",
         "Power": "11",
@@ -2582,7 +2582,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deathwish: Create 2 Lesser Guardians on the top of your opponent's Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/737\/50192icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/737\/228\/293\/50192icon.png",
         "Row": "Melee",
         "Loyalty": "",
         "Power": "10",
@@ -2592,7 +2592,7 @@
     {
         "Type": "Silver",
         "Abilities": "Draw your top 2 Bronze or Silver cards. Play 1 and shuffle the other back.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/599\/50030icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/599\/228\/293\/50030icon.png",
         "Row": "Special",
         "Loyalty": "",
         "Power": "0",
@@ -2602,7 +2602,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Boost 3 adjacent Units by 4.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/620\/50039icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/620\/228\/293\/50039icon.png",
         "Row": "Special",
         "Loyalty": "",
         "Power": "0",
@@ -2612,7 +2612,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy: If neither player has passed, Boost self by 15, then your opponent draws the top Bronze card from their Deck and Reveals it.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/697\/50161icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/697\/228\/293\/50161icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "8",
@@ -2622,7 +2622,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Apply Rain to a row on your opponent's side. Rain: Every turn, at the start of your turn, Damage up to 5 of the Lowest Units on the row by 1.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/459\/5icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/459\/228\/293\/5icon.png",
         "Row": "Special, Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "0",
@@ -2632,7 +2632,7 @@
     {
         "Type": "Silver",
         "Abilities": "Ambush: When your opponent passes, turn this Unit over and Boost 2 Units on each side by 2.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/645\/50110icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/645\/228\/293\/50110icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "6",
@@ -2642,7 +2642,7 @@
     {
         "Type": "Silver",
         "Abilities": "Play the bottom card from your opponent's Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/730\/50210icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/730\/228\/293\/50210icon.png",
         "Row": "Special",
         "Loyalty": "",
         "Power": "0",
@@ -2652,7 +2652,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Damage 3 adjacent Enemies by 1. Fresh Crew: Increase the Damage dealt by 1.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/629\/50062icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/629\/228\/293\/50062icon.png",
         "Row": "Siege, Melee, Ranged",
         "Loyalty": "",
         "Power": "3",
@@ -2662,7 +2662,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Gain 3 Armor.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/767\/50240icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/767\/228\/293\/50240icon.png",
         "Row": "Melee",
         "Loyalty": "",
         "Power": "8",
@@ -2672,7 +2672,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy: Damage a Unit by 5.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/465\/506icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/465\/228\/293\/506icon.png",
         "Row": "Ranged, Melee, Siege",
         "Loyalty": "",
         "Power": "7",
@@ -2682,7 +2682,7 @@
     {
         "Type": "Gold",
         "Abilities": "Every turn, at the start of your turn, Boost all other Lowest Allies by 1.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/527\/507icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/527\/228\/293\/507icon.png",
         "Row": "Ranged, Melee, Siege",
         "Loyalty": "",
         "Power": "5",
@@ -2692,7 +2692,7 @@
     {
         "Type": "Silver",
         "Abilities": "Counts as part of any Northern Realms Trio on the row. Deploy: Gain 5 Armor.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/479\/1039icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/479\/228\/293\/1039icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "8",
@@ -2702,7 +2702,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Draw the top 2 cards from your Deck. Keep one and Discard the other.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/566\/5033icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/566\/228\/293\/5033icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "12",
@@ -2712,7 +2712,7 @@
     {
         "Type": "Leader",
         "Abilities": "Spawn Unseen Elder. Deploy: Consume 3 Allies, but Strengthen instead of Boosting.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/752\/50225icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/752\/228\/293\/50225icon.png",
         "Row": "Any",
         "Loyalty": "",
         "Power": "5",
@@ -2722,7 +2722,7 @@
     {
         "Type": "Gold",
         "Abilities": "Every turn, at the end of your turn, Damage by 2 every Damaged Enemy with 2 Power or less.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/747\/50220icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/747\/228\/293\/50220icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "6",
@@ -2732,7 +2732,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Spawn Biting Frost, Clear Skies or Stammelford's Tremors.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/705\/50169icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/705\/228\/293\/50169icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "3",
@@ -2742,7 +2742,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy: Reveal up to 2 cards from your Hand (can be Golds). For each, Reveal 1 random card from your opponent's Hand (can be Gold).",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/693\/50157icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/693\/228\/293\/50157icon.png",
         "Row": "Ranged, Melee, Siege",
         "Loyalty": "",
         "Power": "8",
@@ -2752,7 +2752,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy: Damage an Enemy by 3. If it was Destroyed, Spawn a Blue Stripes Commando on a random row and repeat the Deploy ability (one time only).",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/474\/1000icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/474\/228\/293\/1000icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "6",
@@ -2762,7 +2762,7 @@
     {
         "Type": "Silver",
         "Abilities": "Whenever you complete a Northern Realms Trio, play this Unit from your Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/478\/1031icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/478\/228\/293\/1031icon.png",
         "Row": "Melee",
         "Loyalty": "",
         "Power": "7",
@@ -2772,7 +2772,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Play Eskel and Lambert from your Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/530\/562icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/530\/228\/293\/562icon.png",
         "Row": "Melee",
         "Loyalty": "",
         "Power": "7",
@@ -2782,7 +2782,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Resurrect a Bronze Unit from your opponent's Graveyard.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/715\/50179icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/715\/228\/293\/50179icon.png",
         "Row": "Ranged",
         "Loyalty": "",
         "Power": "1",
@@ -2792,7 +2792,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Trigger the ability of a Spying Enemy Ambassador or Emissary.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/734\/50070icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/734\/228\/293\/50070icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "1",
@@ -2802,7 +2802,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy: Destroy an Ally or (only possible if your opponent has not passed) an Enemy. If you destroy an Ally, play the top card from your Deck. If you destroy an Enemy, your opponent draws the top Bronze card from their Deck and Reveals it.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/695\/50159icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/695\/228\/293\/50159icon.png",
         "Row": "Siege, Melee, Ranged",
         "Loyalty": "",
         "Power": "8",
@@ -2812,7 +2812,7 @@
     {
         "Type": "Gold",
         "Abilities": "After 3 turns, at the start of your turn, Destroy all the Highest Units on the Board.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/543\/553icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/543\/228\/293\/553icon.png",
         "Row": "Ranged, Melee, Siege",
         "Loyalty": "",
         "Power": "8",
@@ -2822,7 +2822,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Consume the Unit to the right. Every 2 turns, at the start of your turn, Consume the Unit to the right.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/638\/50088icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/638\/228\/293\/50088icon.png",
         "Row": "Ranged, Melee, Siege",
         "Loyalty": "",
         "Power": "5",
@@ -2832,7 +2832,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Clear Weather from the row on your side and move a Unit to this row on its side.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/651\/50118icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/651\/228\/293\/50118icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "6",
@@ -2842,7 +2842,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Every turn, at the start of your turn, Boost a random Loyal Unit in your Hand by 1.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/489\/3034icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/489\/228\/293\/3034icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "6",
@@ -2852,7 +2852,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Mulligan a card.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/573\/3103icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/573\/228\/293\/3103icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "7",
@@ -2862,7 +2862,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Ambush: After 2 turns, at the start of your turn, turn this Unit over.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/652\/50121icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/652\/228\/293\/50121icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "8",
@@ -2872,7 +2872,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Whenever you Mulligan a card, Boost self by 1 while in your Hand, Deck or on your side of the Board.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/534\/3110icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/534\/228\/293\/3110icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "4",
@@ -2882,7 +2882,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Whenever you Discard a Unit, Damage a random Enemy by 2.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/660\/50142icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/660\/228\/293\/50142icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "6",
@@ -2892,7 +2892,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Spawn Torrential Rain, Clear Skies or Lacerate.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/634\/50079icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/634\/228\/293\/50079icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "3",
@@ -2902,7 +2902,7 @@
     {
         "Type": "Silver",
         "Abilities": "Apply Frost to a row on your opponent's side and the row above it. Frost: Every turn, at the start of your turn, Damage one of the Lowest Units on the row by 2.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/462\/9icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/462\/228\/293\/9icon.png",
         "Row": "Special, Melee, Ranged",
         "Loyalty": "",
         "Power": "0",
@@ -2912,7 +2912,7 @@
     {
         "Type": "Gold",
         "Abilities": "Every turn, at the start of your turn, Strengthen the Unit to the left by 1 and Damage the Unit to the right by 1.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/686\/50206icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/686\/228\/293\/50206icon.png",
         "Row": "Siege, Melee, Ranged",
         "Loyalty": "",
         "Power": "6",
@@ -2922,7 +2922,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Play a Biting Frost card from your Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/587\/50093icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/587\/228\/293\/50093icon.png",
         "Row": "Melee",
         "Loyalty": "",
         "Power": "4",
@@ -2932,7 +2932,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Choose a different Bronze Wild Hunt Ally. Play a copy of it from your Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/746\/50219icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/746\/228\/293\/50219icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "3",
@@ -2942,7 +2942,7 @@
     {
         "Type": "Bronze",
         "Abilities": "At the end of the Round, keep this Unit on the Board if you lost. If this Unit is part of a Trio at the end of your turn, Boost it by 1.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/507\/4114icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/507\/228\/293\/4114icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "6",
@@ -2952,7 +2952,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Damage an Enemy by 3. If it was Destroyed, Boost self by 2.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/506\/4113icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/506\/228\/293\/4113icon.png",
         "Row": "Melee",
         "Loyalty": "",
         "Power": "5",
@@ -2962,7 +2962,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy: Spawn 3 Rabid Wolves and apply Fog to the opposite row.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/498\/4003icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/498\/228\/293\/4003icon.png",
         "Row": "Ranged, Melee, Siege",
         "Loyalty": "",
         "Power": "5",
@@ -2972,7 +2972,7 @@
     {
         "Type": "Bronze",
         "Abilities": "Deploy: Damage an Enemy by 3.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/540\/4102icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/540\/228\/293\/4102icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "6",
@@ -2982,7 +2982,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy: Look at the top 3 cards in your opponent's Deck. You may move 1 to the bottom of their Deck.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/698\/50162icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/698\/228\/293\/50162icon.png",
         "Row": "Siege, Melee, Ranged",
         "Loyalty": "",
         "Power": "10",
@@ -2992,7 +2992,7 @@
     {
         "Type": "Silver",
         "Abilities": "Deploy: Draw the top Unit and top Special card from your Deck. Keep 1 and shuffle the other back.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/488\/3032icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/488\/228\/293\/3032icon.png",
         "Row": "Ranged, Siege, Melee",
         "Loyalty": "",
         "Power": "12",
@@ -3002,7 +3002,7 @@
     {
         "Type": "Silver",
         "Abilities": "Whenever a Dwarf Ally (including Golds) is played, Boost self by 1. Deploy: Gain Resilience.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/649\/50116icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/649\/228\/293\/50116icon.png",
         "Row": "Siege",
         "Loyalty": "",
         "Power": "7",
@@ -3012,7 +3012,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy: Spawn a Unicorn or a Chironex.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/579\/50017icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/579\/228\/293\/50017icon.png",
         "Row": "Siege, Melee, Ranged",
         "Loyalty": "",
         "Power": "6",
@@ -3022,7 +3022,7 @@
     {
         "Type": "Gold",
         "Abilities": "Every turn, at the start of your turn, Damage all the Highest Enemies by 1.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/665\/50202icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/665\/228\/293\/50202icon.png",
         "Row": "Siege, Melee, Ranged",
         "Loyalty": "",
         "Power": "4",
@@ -3032,7 +3032,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy: Move 3 Units to this row on their side. If they are Allies, Strengthen them by 2.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/466\/509icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/466\/228\/293\/509icon.png",
         "Row": "Melee, Ranged, Siege",
         "Loyalty": "",
         "Power": "8",
@@ -3042,7 +3042,7 @@
     {
         "Type": "Gold",
         "Abilities": "Deploy: Spawn Field Marshal Duda Companion or Field Marshal Duda Agitator.",
-        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/528\/508icon.png",
+        "imageurl": "http:\/\/media-seawolf.cursecdn.com\/avatars\/thumbnails\/8\/528\/228\/293\/508icon.png",
         "Row": "Ranged, Melee, Siege",
         "Loyalty": "",
         "Power": "7",
