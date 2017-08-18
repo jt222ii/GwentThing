@@ -19,13 +19,15 @@ class CardList extends Component {
                 <input id="searchBox" type="text" name="search" value={this.state.search} onChange={this.updateSearch.bind(this)}/>
                 <table id="cardTable">
                     <thead>
-                        <td></td> 
-                        <td>Name</td>    
-                        <td>Power</td>
-                        <td>Abilities</td>
-                        <td>Faction</td>
-                        <td>Row</td>  
-                        <td>Type</td>
+                        <tr>
+                            <td></td> 
+                            <td>Name</td>    
+                            <td>Power</td>
+                            <td>Abilities</td>
+                            <td>Faction</td>
+                            <td>Row</td>  
+                            <td>Type</td>
+                        </tr>
                     </thead>
                     <tbody>
                         {

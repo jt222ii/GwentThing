@@ -5,7 +5,7 @@
 
 .App-header {
   background-color: #222;
-  height: 75px;
+  height: auto;
   padding: 10px;
   color: white;
 }
@@ -30,7 +30,7 @@ tr {
   text-align: left;
 }
 
-thead {
+thead td {
   font-size: 24px;
 }
 
@@ -64,5 +64,45 @@ td {
     position: absolute;
     left: 0;
     margin-top: 16px;
-    width: 155px;
+    width: 120px;
+}
+
+#headerOptions {
+  margin-right: 40px;
+}
+
+#headerOptions li {
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+  padding-left: 10px;
+  padding-right: 10px;
+  
+}
+
+#CardPicker {
+  float:left;
+  width:600px;
+}
+
+#cardPickerList li {
+  display: inline;
+}
+
+#CardPickerItem div {
+  background: lightgray;
+  margin:10px;
+}
+
+#CardPickerItem div div {
+    display:inline-block;
+    height:100%;
+}
+
+#CardPickerItem div div:nth-child(even) {
+  background: whitesmoke;
+}
+
+#CardPickerItem div div:nth-child(odd) {
+  background: lightgray;
 }

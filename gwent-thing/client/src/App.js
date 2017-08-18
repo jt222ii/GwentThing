@@ -1,22 +1,25 @@
 import React, { Component } from 'react';
 import './App.css';
-import CardList from './Components/CardList'
+
+import AppHeader from './Components/AppHeader';
+import { BrowserRouter, Route} from 'react-router-dom';
+
+import CardList from './Components/CardList';
+import DeckBuilder from './Components/DeckBuilder';
 
 class App extends Component {
     render() {
       return (
-        <div className="App">
-          <div className="App-header">
-            <h2>Gwent Thing!</h2>
-            {/* Buttons will be replaced by components, they are temporary */}
-            <button>Cards</button>
-            <button>My Decks</button>
-            <button>Log in</button>
-          </div>
-          <div>
-            <CardList />
-          </div>
-        </div>
+        
+      <BrowserRouter>
+        <div>
+           <AppHeader />
+           <div className="content">
+               <Route exact path="/" component={CardList}/>
+               <Route path="/deckbuilder" component={DeckBuilder}/>
+            </div>
+        </ div>
+      </BrowserRouter>
       );
     }
 }
