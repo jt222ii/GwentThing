@@ -77,7 +77,7 @@ class DeckBuilder extends Component {
                     <div>
                         <select value={this.state.pickedFaction} onChange={this.setFaction.bind(this)}>
                             <option value="-">-</option>
-                            <option value="Scoia'tael">Scoia'tael</option>
+                            <option value="Scoia'tael">Scoiatael</option>
                             <option value="Nilfgaard">Nilfgaard</option>
                             <option value="Northern Realms">Northern Realms</option>
                             <option value="Skellige">Skellige</option>
