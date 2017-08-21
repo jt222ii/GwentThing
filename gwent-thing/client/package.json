@@ -2,6 +2,12 @@
   "name": "gwent-thing",
   "version": "0.1.0",
   "private": true,
+  "proxy": {
+              "/api/*":{
+                  "target":"http://localhost:3001/",
+                  "secure":"false"
+              }
+            },
   "dependencies": {
     "react": "^15.6.1",
     "react-dom": "^15.6.1",

@@ -67,9 +67,19 @@ class DeckBuilder extends Component {
         return this.state.currentDeck.reduce((n, val) => {return n + (val === card);}, 0);
     }
 
+    //This function is not yet done. Only testing atm
+    saveDeckToServer(){
+        let xmlhttp = new XMLHttpRequest();
+        let targetUrl = "/api/savedeck/pelle/test1"; //Temporary url (pelle and test) until log in system is implemented
+        xmlhttp.open("POST", targetUrl);
+        xmlhttp.setRequestHeader('Content-Type', 'application/json; charset=UTF-8');
+        xmlhttp.send(JSON.stringify(this.state.currentDeck));
+    }
+
     render() {
         return(
             <div>
+                <button onClick={() => {this.saveDeckToServer()}}/>
                 <div id="filters">
                     <div>
                         <input id="searchBox" type="text" name="search" value={this.state.search} onChange={this.updateSearch.bind(this)}/>
